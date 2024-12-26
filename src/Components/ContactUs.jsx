@@ -8,19 +8,18 @@ export default function ContactUs(){
         <p>If you have any questions or inquiries, feel free to reach out to us. We are here to assist you!</p>
         
         <div className="contact-info">
-          {/* Email Section */}
+         
           <div className="contact-item">
             <h3>Email Us:</h3>
             <p><a href="mailto:support@vusefy.com">support@vusefy.com</a></p>
           </div>
-          
-          {/* Phone Section */}
+         
           <div className="contact-item">
             <h3>Call Us:</h3>
-            <p>+1 234 567 890</p>
+            <p>+994 888 88 88</p>
           </div>
           
-          {/* Social Media Section */}
+         
           <div className="contact-item">
             <h3>Follow Us:</h3>
             <p>
@@ -30,8 +29,7 @@ export default function ContactUs(){
             </p>
           </div>
           
-          {/* Location Section */}
-          <div className="contact-item">
+                   <div className="contact-item">
             <h3>Our Location:</h3>
             <p>123 Travel Street, Adventure City, Country 45678</p>
           </div>
